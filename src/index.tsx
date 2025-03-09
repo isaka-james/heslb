@@ -1,8 +1,8 @@
 import { root } from '@lynx-js/react'
 
-import { App } from './App.js'
+import { Login } from './layout/login/Login.jsx'
 
-root.render(<App />)
+root.render(<Login />)
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
