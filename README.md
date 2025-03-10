@@ -1,21 +1,27 @@
-## Rspeedy project
+# HESLB Design Improved App (Lynx Framework)
 
-This is a ReactLynx project bootstrapped with `create-rspeedy`.
+A redesigned version of the HESLB app built using the Lynx framework for a modern and efficient user experience.
 
-## Getting Started
+## 🚀 Getting Started
 
-First, install the dependencies:
-
-```bash
-pnpm install
+Clone the repository:
+```sh
+git clone https://github.com/isaka-james/heslb.git
+cd heslb
 ```
 
-Then, run the development server:
-
-```bash
-pnpm run dev
+Install dependencies:
+```sh
+npm install
 ```
 
-Scan the QRCode in the terminal with your LynxExplorer App to see the result.
+Run the project:
+```sh
+npm run dev
+```
 
-You can start editing the page by modifying `src/App.tsx`. The page auto-updates as you edit the file.
+Enjoy the improved HESLB app design
+
+![image](https://github.com/user-attachments/assets/e4ebef18-c728-4194-8ac4-8a63f24fcdf1)
+
+Disclaimer: No integration was made was made within the App with the HELSB application, this is just a redesign of the helsb.
